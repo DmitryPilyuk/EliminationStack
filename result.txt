@@ -1,0 +1,13 @@
+Подобранные данные, push и pop чередуются
+N = 1 | elimTime = 177 ms | treiber = 165 ms
+N = 2 | elimTime = 157 ms | treiber = 343 ms
+N = 4 | elimTime = 376 ms | treiber = 692 ms
+N = 8 | elimTime = 854 ms | treiber = 1653 ms
+N = 16 | elimTime = 1813 ms | treiber = 2992 ms
+
+Случайные данные
+N = 1 | elimTime = 105 ms | treiber = 45 ms
+N = 2 | elimTime = 111 ms | treiber = 96 ms
+N = 4 | elimTime = 255 ms | treiber = 231 ms
+N = 8 | elimTime = 613 ms | treiber = 600 ms
+N = 16 | elimTime = 1351 ms | treiber = 1398 ms
